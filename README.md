@@ -14,6 +14,6 @@ clone the entire game folder and drag it onto the LOVE application to open the g
 * Collision detections using Axis Alligned Bounding Box collision detection system
 * Creating virtual height/width
 * Utilization of delta time
-* Usage of game state
+* Usage of game states
 * Scoring system in games
 * Evaluating current Frames Per Second and display it on player's screen
