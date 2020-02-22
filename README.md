@@ -1,5 +1,5 @@
 ## Description
-This is a replicate of the classic video game, pong, I created using programming language Lua.
+This is a replicate of the classic video game, pong, I made using programming language Lua.
 I created low level game functions like the screen and object rendering, collision detections, elastic collision (bouncing), manipulation of speed.
 In addition, I added a simple AI system that tracks the ball's movement in order to fight against the player.
 
